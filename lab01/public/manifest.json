@@ -37,14 +37,14 @@
   "screenshots": [
     {
       "src": "screenshots/desktop.png",
-      "sizes": "1280x720",
+      "sizes": "2560x1440",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Strona główna aplikacji na komputerze"
     },
     {
       "src": "screenshots/mobile.png",
-      "sizes": "390x844",
+      "sizes": "780x1688",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Strona główna aplikacji na telefonie"
