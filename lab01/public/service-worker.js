@@ -6,7 +6,7 @@ const { precaching, routing, strategies } = workbox;
         { url: './', revision: '2' },
         { url: 'index.html', revision: '2' },
         { url: 'index.js', revision: '2' },
-        { url: 'manifest.json', revision: '1' },
+        { url: 'manifest.json', revision: '2' },
         { url: 'offline.html', revision: '1' },
     ]);
 // 2. Strony HTML: najpierw sieć, a gdy jej nie ma - wersja z cache.
