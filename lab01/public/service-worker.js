@@ -3,8 +3,8 @@ const { precaching, routing, strategies } = workbox;
 // 1. Pliki "szkieletu" aplikacji zapisujemy w cache od razu przy instalacji service workera.
     // Zmiana numeru "revision" wymusza ponowne pobranie danego pliku.
     precaching.precacheAndRoute([
-        { url: './', revision: '2' },
-        { url: 'index.html', revision: '2' },
+        { url: './', revision: '3' },
+        { url: 'index.html', revision: '3' },
         { url: 'index.js', revision: '2' },
         { url: 'manifest.json', revision: '2' },
         { url: 'offline.html', revision: '1' },
